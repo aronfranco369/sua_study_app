@@ -1,0 +1,227 @@
+{
+  "project_info": {
+    "project_number": "887008929267",
+    "firebase_url": "https://chat-app-e0e33-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-e0e33",
+    "storage_bucket": "chat-app-e0e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:4c843b7c6384c2923ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:d9e312c7e3b23f053ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.firebase_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:45d6be07b17a36c53ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.forms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:7bb7185f756e9b053ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.study_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:04275c1aa90b55183ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.uni_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887008929267:android:701290e455f00a613ade86",
+        "android_client_info": {
+          "package_name": "com.aronfranco.uni_study_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXNr2ID-F5KC0bAst965LhgIO8s_eSt4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887008929267-u6pu5rvj1m7upk6s7n5gt4p311lmla3c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887008929267-baap5s88httdrhe22jnpnsi97bqos078.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aronfranco.uniStudyHub.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
